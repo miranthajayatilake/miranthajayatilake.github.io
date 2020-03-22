@@ -81,10 +81,10 @@ author:
   name: "Miratha Jayathilaka"
   avatar: "profile.png"
   bio: "PhD reseracher in Computer Science. Machine Learning."
-  location: "Location"
+  location: "Univeristy of Manchester, UK"
   employer:
-  pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar: "http://yourfullgooglescholarurl.com"
+  pubmed:
+  googlescholar:
   email:
   researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
   uri:
@@ -94,20 +94,20 @@ author:
   flickr:
   facebook:
   foursquare:
-  github: "academicpages"
+  github: "miranthajayatilake"
   google_plus:
   keybase:
   instagram:
   impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm:
-  linkedin:
-  orcid: "http://orcid.org/yourorcidurl"
+  linkedin: "https://www.linkedin.com/in/miranthajayathilaka/"
+  orcid:
   pinterest:
   soundcloud:
   stackoverflow: # http://stackoverflow.com/users/123456/username
   steam:
   tumblr:
-  twitter: "replacethistwitterhandle"
+  twitter: "https://twitter.com/MJayatilake"
   vine:
   weibo:
   xing:
