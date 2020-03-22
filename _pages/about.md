@@ -12,4 +12,7 @@ redirect_from:
 
 <span style="font-size:1em;">My area of reserach rovolves around symbolic knowledge driven machine learning for vision applications.</span>
 
-> > <span style="font-size:0.9em;">Your existence, my existence is just infinitesimal. It’s like a firefly blinking once in the night.<span> > > <span style="font-size:0.9em;">~ Naval Ravikant</span>
+---
+
+<span style="font-size:0.9em;">_Your existence, my existence is just infinitesimal. It’s like a firefly blinking once in the night._<span>
+<span style="font-size:0.9em;">_~ Naval Ravikant_</span>
