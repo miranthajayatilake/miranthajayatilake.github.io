@@ -16,3 +16,14 @@ redirect_from:
 
 <span style="font-size:0.9em;">_Your existence, my existence is just infinitesimal. It’s like a firefly blinking once in the night._<span>
 <span style="font-size:0.9em;">_~ Naval Ravikant_</span>
+
+<script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+
+<df-messenger
+chat-icon="88adf5b5-92dc-4eb5-ae16-2e3999f45654_x.png"
+intent="WELCOME"
+chat-title="MAIA_covid"
+agent-id="2846a37b-d28b-4a20-934d-db98ab9f2d1e"
+language-code="en"
+
+> </df-messenger>
