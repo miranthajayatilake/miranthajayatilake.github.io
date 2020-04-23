@@ -17,6 +17,7 @@ redirect_from:
 <span style="font-size:0.9em;">_Your existence, my existence is just infinitesimal. It’s like a firefly blinking once in the night._<span>
 <span style="font-size:0.9em;">_~ Naval Ravikant_</span>
 
+<meta name="viewport" content="width-device-width, initial-scale=1">
 <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
 
 <df-messenger
