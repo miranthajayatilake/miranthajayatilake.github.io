@@ -1,11 +1,10 @@
 ---
-permalink: /test/
+permalink: /test
 title: "Test"
 excerpt: ""
 author_profile: false
 redirect_from:
   - /test/
-  - /test.html
 ---
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
