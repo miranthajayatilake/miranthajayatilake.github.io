@@ -4,7 +4,7 @@ title: "Test"
 excerpt: ""
 author_profile: false
 redirect_from:
-  - /test/
+  - /search
 ---
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
