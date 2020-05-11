@@ -84,7 +84,7 @@ author:
   location: "Univeristy of Manchester, UK"
   employer:
   pubmed:
-  googlescholar:
+  googlescholar: "https://scholar.google.com/citations?user=kyHbB68AAAAJ&hl=en"
   email:
   researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
   uri:
