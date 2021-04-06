@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<span style="font-size:1em;">I am a second year PhD student in Computer Science at the University of Manchester, supervised by [Dr. Tingting Mu](https://personalpages.manchester.ac.uk/staff/tingting.mu/Site/About_Me.html) and [Prof. Uli Sattler](http://www.cs.man.ac.uk/~sattler/).</span>
+<span style="font-size:1em;">I am a final year PhD student in Computer Science at the University of Manchester, supervised by [Dr. Tingting Mu](https://personalpages.manchester.ac.uk/staff/tingting.mu/Site/About_Me.html) and [Prof. Uli Sattler](http://www.cs.man.ac.uk/~sattler/).</span>
 
-<span style="font-size:1em;">My area of reserach revolves around symbolic knowledge driven machine learning for vision applications.</span>
+<span style="font-size:1em;">My area of reserach revolves around ontological knowledge driven machine learning for vision applications.</span>
 
 ---
 
